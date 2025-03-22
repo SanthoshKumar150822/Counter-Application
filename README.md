@@ -2,7 +2,7 @@
 This application simulates a token-based queue management system for multiple service counters (e.g., bank counters, ticket counters, etc.). Users can generate tokens from token dispenser, and each token is assigned to a specific counter based on the counter operators call after an user gets token from token dispenser. The system ensures that tokens are assigned sequentially and that no two or more counters have the same token number at the same time. The application is designed to manage and display the current token number being served at each counter.
 
 Input range is 1 to 5, 
-Input 1 to 4 is for Window operator's call and Input 5 for an user to get token from the token dispenser.
+Input 1 to 4 is for Window operator's call and Input 5 is for an user to get token from the token dispenser.
 
 Key Features:
 1. Token Generation: Users can generate tokens sequentially from the token dispenser
