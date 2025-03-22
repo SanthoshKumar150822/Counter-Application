@@ -1,0 +1,14 @@
+F:\3D Objects\6th Trimester\.NET\Counter Application\obj\Debug\net8.0\Counter Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\3D Objects\6th Trimester\.NET\Counter Application\obj\Debug\net8.0\Counter Application.AssemblyInfoInputs.cache
+F:\3D Objects\6th Trimester\.NET\Counter Application\obj\Debug\net8.0\Counter Application.AssemblyInfo.cs
+F:\3D Objects\6th Trimester\.NET\Counter Application\obj\Debug\net8.0\Counter Application.csproj.CoreCompileInputs.cache
+F:\3D Objects\6th Trimester\.NET\Counter Application\bin\Debug\net8.0\Counter Application.exe
+F:\3D Objects\6th Trimester\.NET\Counter Application\bin\Debug\net8.0\Counter Application.deps.json
+F:\3D Objects\6th Trimester\.NET\Counter Application\bin\Debug\net8.0\Counter Application.runtimeconfig.json
+F:\3D Objects\6th Trimester\.NET\Counter Application\bin\Debug\net8.0\Counter Application.dll
+F:\3D Objects\6th Trimester\.NET\Counter Application\bin\Debug\net8.0\Counter Application.pdb
+F:\3D Objects\6th Trimester\.NET\Counter Application\obj\Debug\net8.0\Counter Application.dll
+F:\3D Objects\6th Trimester\.NET\Counter Application\obj\Debug\net8.0\refint\Counter Application.dll
+F:\3D Objects\6th Trimester\.NET\Counter Application\obj\Debug\net8.0\Counter Application.pdb
+F:\3D Objects\6th Trimester\.NET\Counter Application\obj\Debug\net8.0\Counter Application.genruntimeconfig.cache
+F:\3D Objects\6th Trimester\.NET\Counter Application\obj\Debug\net8.0\ref\Counter Application.dll
